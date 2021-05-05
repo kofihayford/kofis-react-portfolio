@@ -9,8 +9,9 @@ export default function LandingPage() {
     return (
         <div>
             <Header />
-            <div className="flex flex-row flex-wrap">
+            <div className="flex justify-center"> <h1 className="flex justify-center text-4xl pt-10" > Kofi Projects </h1></div>
 
+            <div className="flex flex-row flex-wrap">
                 <Projects
                     img={"https://raw.githubusercontent.com/kofihayford/PortfolioPage1/main/assets/Project1.png"}
                     description={"This project was designed to show our ability to create a responsive webpage to allow for better accessibility. Making a website accessible is good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google."}
