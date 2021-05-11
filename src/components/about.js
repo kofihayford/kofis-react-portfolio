@@ -16,7 +16,7 @@ export default function About() {
                     <a className="py-4 px-4 bg-red-800 hover:bg-red-500 text-white rounded mx-10 border-solid border-1 focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-opacity-50 hover:shadow-inner shadow-2xl" href="https://github.com/kofihayford">Kofi's Github</a>
                     <a className="py-4 px-4 bg-green-800 hover:bg-green-500 text-white rounded mx-10 border-solid border-1 focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-opacity-50 hover:shadow-inner shadow-2xl" href="./assets/Resume2021.pdf">Kofi's Resume</a>
                     <a className="py-4 px-4 bg-indigo-800 hover:bg-indigo-500 text-white rounded mx-10 border-solid border-1 focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-opacity-50 hover:shadow-inner shadow-2xl" href="https://www.linkedin.com/in/kofihayford/">Kofi's
-                            LinkedIn</a>
+                            LinkedIn here</a>
                 </p>
             </div>
             <Footer />
